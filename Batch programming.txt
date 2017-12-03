@@ -1,0 +1,14 @@
+# Batch programming
+
+## Basics
+- Save as .bat or .cmd.
+- Can be run from command prompt. CD to script or add its path to env vars.
+- The "start" command  can also open URLs.
+- Run a batch script from powershell: cmd.exe /c <script-name>
+- %1, %2, etc. - Input from the command line.
+- Setting a var: set my-age=29
+- Calling a var: %my-age%
+- Newline: echo.
+
+## Commands
+https://www.tutorialspoint.com/batch_script/batch_script_commands.htm
