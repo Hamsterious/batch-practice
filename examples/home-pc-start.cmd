@@ -12,24 +12,24 @@ start "" "C:\Program Files\Autodesk\SketchBook\SketchBook.exe"
 :: Blogs
 start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 start "" www.sketchbook.com/blog/
-start "" thesecretstodrawing.com
+start "" www.thesecretstodrawing.com
 start "" www.pencildrawingmadeeasy.com
 
 :: Artists and galleries
 start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
-start "" rossdraws.deviantart.com/gallery/
-start "" kate-fox.deviantart.com/gallery/
-start "" sakimichan.deviantart.com/gallery/
-start "" nsio.deviantart.com/gallery/
-start "" kachima.deviantart.com/gallery/
+start "" www.rossdraws.deviantart.com/gallery/
+start "" www.kate-fox.deviantart.com/gallery/
+start "" www.sakimichan.deviantart.com/gallery/
+start "" www.nsio.deviantart.com/gallery/
+start "" www.kachima.deviantart.com/gallery/
 
-start "" ryky.deviantart.com/gallery/
-start "" zombiesmile.deviantart.com/gallery/
-start "" robotcatart.deviantart.com/gallery/
-start "" grooooovy.deviantart.com/gallery/
-start "" chacckco.deviantart.com/gallery/
-start "" edwinhuang.deviantart.com/gallery/
-start "" endling.deviantart.com/gallery/
+start "" www.ryky.deviantart.com/gallery/
+start "" www.zombiesmile.deviantart.com/gallery/
+start "" www.robotcatart.deviantart.com/gallery/
+start "" www.grooooovy.deviantart.com/gallery/
+start "" www.chacckco.deviantart.com/gallery/
+start "" www.edwinhuang.deviantart.com/gallery/
+start "" www.endling.deviantart.com/gallery/
 
 ::==========
 :: Noise
