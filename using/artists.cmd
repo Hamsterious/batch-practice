@@ -1,5 +1,5 @@
 :: Artists and galleries
-start /wait "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 start "" "https://rossdraws.deviantart.com/gallery/"
 start "" "https://kate-fox.deviantart.com/gallery/"
 start "" "https://sakimichan.deviantart.com/gallery/"
